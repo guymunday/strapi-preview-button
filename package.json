@@ -51,12 +51,12 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "preview-button",
-    "displayName": "Preview Button",
-    "description": "Adds a preview button to view draft content."
+    "name": "preview-button-local",
+    "displayName": "Preview Button Local",
+    "description": "Adds a preview button to view draft dcdc content."
   },
-  "name": "preview-button",
-  "description": "Adds a preview button to view draft content.",
+  "name": "preview-button-local",
+  "description": "Adds a preview button to view draft dedede content.",
   "license": "MIT",
   "author": "Guy Munday <guy@wildishandco.co.uk>"
 }

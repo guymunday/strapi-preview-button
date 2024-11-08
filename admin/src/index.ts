@@ -11,7 +11,9 @@ export default {
       isReady: false,
       name: PLUGIN_ID,
     });
+  },
 
+  bootstrap(app: any) {
     app.getPlugin("content-manager").injectComponent("editView", "right-links", {
       name: "preview-button",
       Component: PreviewButton,
